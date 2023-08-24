@@ -1,4 +1,4 @@
-# The following is the cheat sheet to remeber commonly used port numbers:
+# The following is the cheat sheet to remember commonly used port numbers:
 
 ### Service/Server : 1 - 1,023 (Permanent ports)
 

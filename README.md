@@ -1,2 +1,2 @@
 # learning
-This repo is just for fun
+This repo is just for learning
